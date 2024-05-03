@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T09:48:42.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FN6Crh1ub9We4ZP0hjAG" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T09:53:15.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ri6cDbiTpmZ7jJYhZr3z" version="24.2.1" type="github">
   <diagram name="Page-1" id="CQZd7gSvVK9HG8uiHv_m">
     <mxGraphModel dx="1221" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="0A7_gJX32q4vAlVc6kxc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-3" target="0A7_gJX32q4vAlVc6kxc-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-3" value="config PA6/GPIO5&lt;br&gt;and&amp;nbsp;&lt;br&gt;enable interrupt for this GPIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-3" value="config PA6/GPIO5&lt;br&gt;and&amp;nbsp;&lt;br&gt;enable interrupt for this GPIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="326" y="260" width="176" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0A7_gJX32q4vAlVc6kxc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-4" target="0A7_gJX32q4vAlVc6kxc-8">
@@ -40,43 +40,40 @@
         <mxCell id="0A7_gJX32q4vAlVc6kxc-6" value="cs_isr_handler()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-7" target="0A7_gJX32q4vAlVc6kxc-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-7" value="Toggle GPIO pin for data transfer start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-7" value="Toggle GPIO pin for data transfer start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="111.88" y="630" width="286.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0A7_gJX32q4vAlVc6kxc-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-8" target="0A7_gJX32q4vAlVc6kxc-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-8" value="set DMA transfer size to maximum i.e 4095" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-8" value="set DMA transfer size to maximum i.e 4095" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="111.88" y="495" width="286.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0A7_gJX32q4vAlVc6kxc-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-9" target="0A7_gJX32q4vAlVc6kxc-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-9" value="SPI RX DMA Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-9" value="SPI RX DMA Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="474" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-11" value="SPI RX DMA Stop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-11" value="SPI RX DMA Stop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="474" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0A7_gJX32q4vAlVc6kxc-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-12" target="0A7_gJX32q4vAlVc6kxc-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-12" value="GPIO5 interrupt received" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-12" value="GPIO5 interrupt received" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110.01" y="760" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0A7_gJX32q4vAlVc6kxc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-13" target="0A7_gJX32q4vAlVc6kxc-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-13" value="DMA Force Stop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-13" value="DMA Force Stop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="110" y="870" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0A7_gJX32q4vAlVc6kxc-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-14" target="0A7_gJX32q4vAlVc6kxc-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-14" value="toggle GPIO pin for data transfer end" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-14" value="toggle GPIO pin for data transfer end" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="970" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0A7_gJX32q4vAlVc6kxc-15" value="spi_sq_write()&lt;br&gt;(enqueue)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -85,19 +82,19 @@
         <mxCell id="0A7_gJX32q4vAlVc6kxc-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-16" target="0A7_gJX32q4vAlVc6kxc-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-16" value="calculate received buffer size and save" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-16" value="calculate received buffer size and save" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="1080" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0A7_gJX32q4vAlVc6kxc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-17" target="0A7_gJX32q4vAlVc6kxc-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-17" value="move DMA buffer and buffer size" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-17" value="move DMA buffer and buffer size" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110.01" y="1180" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0A7_gJX32q4vAlVc6kxc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A7_gJX32q4vAlVc6kxc-18" target="0A7_gJX32q4vAlVc6kxc-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0A7_gJX32q4vAlVc6kxc-18" value="DMA Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0A7_gJX32q4vAlVc6kxc-18" value="DMA Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="110.00999999999999" y="1280" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0A7_gJX32q4vAlVc6kxc-19" value="stop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
