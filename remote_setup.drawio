@@ -76,16 +76,16 @@
           <mxGeometry x="510" y="285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvj22ZWd0LQlKyJpi2xt-22" value="Samba Access ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="650" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvj22ZWd0LQlKyJpi2xt-23" value="VS Code Setup for debugging ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="650" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvj22ZWd0LQlKyJpi2xt-24" value="Multiuser management ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="650" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvj22ZWd0LQlKyJpi2xt-25" value="Probing ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="650" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvj22ZWd0LQlKyJpi2xt-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvj22ZWd0LQlKyJpi2xt-3" target="fvj22ZWd0LQlKyJpi2xt-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
