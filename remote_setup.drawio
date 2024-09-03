@@ -84,6 +84,18 @@
         <mxCell id="fvj22ZWd0LQlKyJpi2xt-20" value="SSH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="380" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fvj22ZWd0LQlKyJpi2xt-21" value="JLink ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fvj22ZWd0LQlKyJpi2xt-22" value="Samba Access ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fvj22ZWd0LQlKyJpi2xt-23" value="VS Code Setup for debugging ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fvj22ZWd0LQlKyJpi2xt-24" value="Multiuser management ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
