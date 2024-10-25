@@ -4,22 +4,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LJCMflJT-ytQ2ns8LZpG-1" value="snf_spi_1.txt&lt;br&gt;(1000 Entry)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LJCMflJT-ytQ2ns8LZpG-1" value="snf_spi_1.txt&lt;br&gt;(1000 Entry)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="120" y="20" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJCMflJT-ytQ2ns8LZpG-2" value="snf_spi_2.txt&lt;br&gt;(1000 Entry)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LJCMflJT-ytQ2ns8LZpG-2" value="snf_spi_2.txt&lt;br&gt;(1000 Entry)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="120" y="90" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJCMflJT-ytQ2ns8LZpG-3" value="snf_spi_3.txt&lt;br&gt;(1000 Entry)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LJCMflJT-ytQ2ns8LZpG-3" value="snf_spi_3.txt&lt;br&gt;(1000 Entry)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJCMflJT-ytQ2ns8LZpG-4" value="snf_spi_4.txt&lt;div&gt;(1000 Entry)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LJCMflJT-ytQ2ns8LZpG-4" value="snf_spi_4.txt&lt;div&gt;(1000 Entry)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJCMflJT-ytQ2ns8LZpG-5" value="snf_spi_5.txt&lt;div&gt;(1000 Entry)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LJCMflJT-ytQ2ns8LZpG-5" value="snf_spi_5.txt&lt;div&gt;(1000 Entry)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="120" y="270" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJCMflJT-ytQ2ns8LZpG-14" value="Sniffing Driver&lt;br&gt;&lt;br&gt;Sample Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LJCMflJT-ytQ2ns8LZpG-14" value="Sniffing Driver&lt;br&gt;&lt;br&gt;Sample Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="-90" y="145" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LJCMflJT-ytQ2ns8LZpG-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LJCMflJT-ytQ2ns8LZpG-14" target="LJCMflJT-ytQ2ns8LZpG-1">
@@ -77,8 +77,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJCMflJT-ytQ2ns8LZpG-25" value="Sniffing App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="LJCMflJT-ytQ2ns8LZpG-25" value="Sniffing App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LJCMflJT-ytQ2ns8LZpG-26" value="Data with Time Stamp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-30" y="260" width="140" height="30" as="geometry" />
@@ -113,7 +113,7 @@
             <mxPoint x="380" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJCMflJT-ytQ2ns8LZpG-36" value="Input&lt;br&gt;&lt;br&gt;LUPA Shell&lt;br&gt;&lt;br&gt;[cmd: snf start/stop]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LJCMflJT-ytQ2ns8LZpG-36" value="Input&lt;br&gt;&lt;br&gt;LUPA Shell&lt;br&gt;&lt;br&gt;[cmd: snf start/stop]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="78" y="-80" width="174" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LJCMflJT-ytQ2ns8LZpG-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LJCMflJT-ytQ2ns8LZpG-25" target="LJCMflJT-ytQ2ns8LZpG-39">
@@ -121,11 +121,11 @@
             <mxPoint x="440" y="320" as="sourcePoint" />
             <mxPoint x="310" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="380" />
+              <mxPoint x="445" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJCMflJT-ytQ2ns8LZpG-39" value="Output&lt;br&gt;&lt;br&gt;Data Display in Terminal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LJCMflJT-ytQ2ns8LZpG-39" value="Output&lt;br&gt;&lt;br&gt;Data Display in Terminal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="78" y="340" width="174" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LJCMflJT-ytQ2ns8LZpG-41" value="Data with Time Stamp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
